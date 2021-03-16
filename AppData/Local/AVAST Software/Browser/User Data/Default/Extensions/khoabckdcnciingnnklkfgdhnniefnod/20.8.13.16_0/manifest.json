@@ -1,0 +1,36 @@
+{
+   "author": "Avast powered by HTTPSEverywhere",
+   "background": {
+      "scripts": [ "background-scripts/bootstrap.js", "background-scripts/util.js", "wasm/https_everywhere_lib_wasm.js", "background-scripts/wasm.js", "background-scripts/update_channels.js", "background-scripts/update.js", "background-scripts/rules.js", "background-scripts/store.js", "external/pako-1.0.5/pako_inflate.min.js", "background-scripts/incognito.js", "background-scripts/ip_utils.js", "background-scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icons/icon-active-16.png",
+         "32": "images/icons/icon-active-32.png",
+         "38": "images/icons/icon-active-38.png"
+      },
+      "default_popup": "pages/popup/index.html",
+      "default_title": "Avast HTTPS Encryption"
+   },
+   "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_about_ext_description__",
+   "differential_fingerprint": "",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1aDzcI9UsO7HGZsj4xdK6h59oo2/NDzS6GnNd7PTPubTWV2mJO5pLtkaL2mTi1UbFLRk/f3fcTWtl4QQjF7EAv2byZ0d2FaOkSIkH/GCY4nRoUPsYz+Wo1JlDePuPwgidq9ebAznwaBXu52BLrxR+wI6+wgktEiQGf0AVPuWkTXCYqbryAvNsAZNyB3SZ//SABxBER5mLZ8lItIFBWIDPVLknH6P/cT3Fab8Z77bUBiZLiwFgUSL0SePZ5Jpn02h+qIHW8cK5R3MsvWm0VqvtEqw6txeBMxkU9wSgn23PJ2ktApiSmd3G0NnM7oqkWA4nNfl0feOE1zylmdvwha6pQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "Avast HTTPS Encryption",
+   "options_ui": {
+      "page": "pages/options/index.html"
+   },
+   "permissions": [ "webNavigation", "webRequest", "webRequestBlocking", "tabs", "cookies", "storage", "*://*/*", "ftp://*/*" ],
+   "short_name": "Avast HTTPS Encryption",
+   "version": "20.8.13.16",
+   "web_accessible_resources": [ "/pages/cancel/index.html" ]
+}

@@ -1,0 +1,39 @@
+{
+   "author": "Avast",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "assets/img/icon16_light.png",
+         "32": "assets/img/icon32_light.png"
+      },
+      "default_popup": "views/popup.html",
+      "default_title": "Avast Video Downloader"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "js/content.bundle.js" ],
+      "match_about_blank": false,
+      "matches": [ "\u003Call_urls>", "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "dataKeys": [ "VDLData" ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "",
+   "icons": {
+      "128": "assets/img/icon128.png",
+      "16": "assets/img/icon16_light.png",
+      "32": "assets/img/icon32_light.png",
+      "64": "assets/img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnFZUJXpsmqyIcRb2tT8Iy4e5Zzl1+/0euoVNH4pDhud0qNrxw/A05fF6pn4tAYqlAKZ3YMyocGBxBg7JAla1zWkE71dBPA+br4nnVM79hDKXFlOjkERnJSvILS70sb+jUnI19ZyuFMXl0jLwaYS8GmwkQkRMFeKJx2WO4yQMLOm/k10/KfG887bKQronkJwTL0KU7GxZbYq0cgEEHpIb/UGB+XbxcMJDnI13XgvRG7ZrRFb9Gp3WEE0OCoFCHEn3IGrNiY4288VPNjaJRvGZg9YXq+fXALTvUaqSpUeDtVvB55o9CETWMz3MtsVN32A6cXaAxUndPyU34FEM3YD26QIDAQAB",
+   "manifest_version": 2,
+   "name": "Avast __MSG_appName__",
+   "permissions": [ "activeTab", "downloads", "management", "storage", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "version": "2.5.143",
+   "web_accessible_resources": [ "assets/**", "js/content.bundle.js", "content.bundle.js", "content.js" ]
+}

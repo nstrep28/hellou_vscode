@@ -1,0 +1,25 @@
+#d5c0f47e-02ba-4a29-b975-bc14f9cd4667 {
+  all: unset;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 0px;
+  height: 0px;
+  overflow: visible;
+  z-index: 2147483647;
+}
+
+@font-face {
+  font-family: ProximaNovaRegular;
+  src: url("https://static3.avast.com/1000947/web/o/f/400/proximanova-regular-webfont.woff2") format("woff2"),
+    url("https://static3.avast.com/1000947/web/o/f/400/proximanova-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: ProximaNovaBold;
+  src: url("https://static3.avast.com/1000947/web/o/f/700/proximanova-bold-webfont.woff2") format("woff2"),
+    url("https://static3.avast.com/1000947/web/o/f/700/proximanova-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,8 @@
+2021/03/16-14:13:55.086 83c Reusing MANIFEST C:\Users\user\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\chrome-extension_kmediagceboldddnnajkcochbkfkedel_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/16-14:13:55.087 83c Recovering log #248
+2021/03/16-14:13:55.087 83c Reusing old log C:\Users\user\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\chrome-extension_kmediagceboldddnnajkcochbkfkedel_0.indexeddb.leveldb/000248.log 
+2021/03/16-14:13:57.117 1064 Level-0 table #252: started
+2021/03/16-14:13:57.117 1064 Level-0 table #252: 0 bytes OK
+2021/03/16-14:13:57.119 1064 Delete type=0 #248
+2021/03/16-14:13:57.119 1064 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/16-14:13:57.119 113c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

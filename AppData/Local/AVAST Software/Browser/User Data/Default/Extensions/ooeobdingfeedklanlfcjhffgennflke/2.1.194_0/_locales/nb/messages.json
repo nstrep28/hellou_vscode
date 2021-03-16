@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "Adblock"
+   },
+   "adBlockSettings": {
+      "message": "Adblock – innstillinger"
+   },
+   "adblockIsOff": {
+      "message": "Adblock er deaktivert"
+   },
+   "adblockIsPaused": {
+      "message": "Adblock er satt på pause på alle nettsteder"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Adblock er satt på pause på dette nettstedet"
+   },
+   "addSite": {
+      "message": "Legg til nettsted"
+   },
+   "adsAreAllowed": {
+      "message": "Reklame er tillatt på dette nettstedet"
+   },
+   "adsBlocked": {
+      "message": "Blokkerte annonser: "
+   },
+   "allowAdsOnSite": {
+      "message": "Tillat reklame på dette nettstedet"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Tillat alltid reklame på følgende nettsteder"
+   },
+   "balancedBlocking": {
+      "message": "Balansert blokkering"
+   },
+   "balancedBlockingName": {
+      "message": "Balansert"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Blokker reklame på denne siden"
+   },
+   "blockingOptions": {
+      "message": "Alternativer for blokkering"
+   },
+   "btnAdd": {
+      "message": "Legg til"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "essentialBlocking": {
+      "message": "Grunnleggende blokkering"
+   },
+   "essentialBlockingName": {
+      "message": "Grunnleggende"
+   },
+   "extShortDesc": {
+      "message": "Endelig en effektiv blokkering som krever lite av prosessor og minne."
+   },
+   "generalSettings": {
+      "message": "Generelle innstillinger"
+   },
+   "indexDescription": {
+      "message": "Blokker reklame og få raskere og tryggere nettsurfing"
+   },
+   "keep_balanced": {
+      "message": "Behold balansert"
+   },
+   "keep_essential": {
+      "message": "Behold grunnleggende"
+   },
+   "learnMore": {
+      "message": "Finn ut mer"
+   },
+   "noAdsToBlock": {
+      "message": "Ingen reklame å blokkere på denne siden"
+   },
+   "pauseAdBlock": {
+      "message": "Sett Adblock på pause"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Sett Adblock på pause på alle nettsider"
+   },
+   "pauseOnAllSites": {
+      "message": "Sett på pause på alle nettsteder"
+   },
+   "pauseOnThisSite": {
+      "message": "Sett på pause på dette nettstedet"
+   },
+   "poweredByUblock": {
+      "message": "Levert av \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Fjern"
+   },
+   "save": {
+      "message": "Lagre"
+   },
+   "setStrict": {
+      "message": "Angi strengt"
+   },
+   "setStrictDescription_avast": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive Avast Secure Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictDescription_avg": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive AVG Secure Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive CCleaner Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictTitle": {
+      "message": "Sett Adblock i streng modus"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Blokker forstyrrende reklame som bryter \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>standardene for akseptabel reklame\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Anbefalt\u003C/b> – Blokker mesteparten av reklamen for å få en raskere og renere nettleseropplevelse."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Blokker nesten alle annonser for å få en raskere og renere nettleseropplevelse. \u003Cb>Dette kan gjøre at noen nettsteder ikke blir vist som de skal.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Andre forstyrrende annonser"
+   },
+   "settingsCardOtherAds": {
+      "message": "99 % av annen reklame"
+   },
+   "settingsCardPopups": {
+      "message": "Popup-annonser og bannere"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Noe reklame på sosiale medier"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Vis antall blokkerte annonser på ikonet"
+   },
+   "site": {
+      "message": "Nettsted"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Nettsteder hvor du tillater reklame, vises her"
+   },
+   "strictBlocking": {
+      "message": "Streng blokkering"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "turnAdblockOn": {
+      "message": "Slå på"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Opphev pause"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Du har tillatt reklame på dette nettstedet "
+   }
+}

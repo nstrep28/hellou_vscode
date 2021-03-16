@@ -1,0 +1,616 @@
+                
+<!DOCTYPE html>
+<html lang="en">
+      <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#" itemscope itemtype="http://schema.org/WebPage">      <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+          <title>MAMP PRO - Your local web development solution</title>
+            		<meta name="author" content="MAMP GmbH">
+    <meta name="publisher" content="MAMP GmbH">
+    <meta name="robots" content="index,follow">
+
+    <meta itemprop="applicationCategory" content="DeveloperApplication,UtilitiesApplication,BusinessApplication">
+    <meta itemprop="operatingSystem" content="Mac,Windows,iOS,Android,FireTV">
+
+    <!-- http://ogp.me/ -->
+          <meta property="og:locale" content="en_GB">
+                        <meta property="og:locale:alternate" content="de_DE">
+                  <meta property="og:locale:alternate" content="fr_FR">
+                  <meta property="og:locale:alternate" content="ru_RU">
+              
+              <meta property="og:site_name" content="MAMP &amp; MAMP PRO - Your local web development solution">
+            <meta property="og:title" content="MAMP PRO - Your local web development solution">
+      <meta itemprop="name" content="MAMP PRO - Your local web development solution">
+                    <meta name="twitter:card" content="summary">
+                    <meta name="twitter:site" content="@mamp_en">
+            <meta name="twitter:url" content="https://www.mamp.info/en/mamp-pro/windows/">
+      <meta name="twitter:title" content="MAMP PRO - Your local web development solution">
+      
+                        <meta property="twitter:image" content="https://www.mamp.info/images/icons/mamp-pro.png">
+          <meta property="twitter:image:alt" content="MAMP PRO Icon">
+          <meta property="og:image" content="https://www.mamp.info/images/icons/mamp-pro.png">
+              
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="https://www.mamp.info/en/mamp-pro/windows/">
+    
+    <link rel="alternate" hreflang="en" href="https://www.mamp.info/en/mamp-pro/windows/">
+    <link rel="canonical" href="https://www.mamp.info/en/mamp-pro/windows/">
+
+          <link rel="alternate" type="application/atom+xml" title="Release notes - Mac" href="/en/release-notes/mac/feed.xml">
+      <link rel="alternate" type="application/atom+xml" title="Release notes - Windows" href="/en/release-notes/windows/feed.xml">
+    
+    <link rel="icon" type="img/ico" href="/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icons/57x57.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icons/57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icons/72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-touch-icons/76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icons/114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-touch-icons/120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icons/152x152.png">
+              <link href="/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+      <link href="/css/fonts.css" type="text/css" rel="stylesheet">
+      <link href="/css/custom.css?t=1614604408" type="text/css" rel="stylesheet">
+            
+      <script src="/js/ovrly.js"></script>
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/popper.min.js"></script>
+      <script src="/js/bootstrap.min.js"></script>
+      <script defer src="/js/fontawesome.js"></script>
+      <script>
+        window.FontAwesomeConfig = {
+          searchPseudoElements: true
+        }
+      </script>
+      <script>
+        const app_name = '';
+        const app_path = '';
+                  const template = 'start';
+              </script>
+      <script defer src="/js/custom.js?t=1614604408"></script>
+      </head>
+      <body itemscope itemtype="http://schema.org/WebPage">      <header>
+              
+<div class="fixed-top bg-app-specific">
+  <div class="container-fluid">
+    <div class="row no-gutters">
+      <div class="col-0 col-lg-1 d-none d-lg-block">
+        <nav class="navbar navbar-expand-lg navbar-dark pl-0" itemscope itemtype="http://schema.org/SiteNavigationElement">
+          <a class="navbar-brand" href="/en/">
+            <img src="/images/icons/mamp-gmbh.png" width="30" height="30" class="d-inline-block align-top" alt="MAMP GmbH">
+            <span class="sr-only">MAMP GmbH</span>
+          </a>
+        </nav>
+      </div>
+      <div class="col-12 col-lg-10">
+        <div class="container pl-0 pr-0">
+          <nav class="navbar navbar-expand-lg navbar-dark" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active"><a itemprop="url" class="nav-link" href="/en/mamp-pro/"><span itemprop="name">MAMP PRO</span></a></li>
+                <li class="nav-item"><a itemprop="url" class="nav-link" href="/en/mamp/"><span itemprop="name">MAMP</span></a></li>
+                <li class="nav-item"><a itemprop="url" class="nav-link" href="/namo/en/"><span itemprop="name">NAMO</span></a></li>
+                                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown-products" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More products</a>
+                  <div class="dropdown-menu rounded-0 border-0" aria-labelledby="navbar-dropdown-products">
+                    <a class="dropdown-item text-white" href="/timeedition/en/" style="background-image: url('/timeedition/images/logo.svg');">timeEdition</a>
+                    <a class="dropdown-item text-white" href="/better-ears/en/" style="background-image: url('/better-ears/images/logo.svg');">Better Ears</a>
+                    <a class="dropdown-item text-white" href="/receiver/en/" style="background-image: url('/receiver/images/logo.svg');">Receiver</a>
+                    <a class="dropdown-item text-white" href="/b-flat/en/" style="background-image: url('/b-flat/images/logo.svg');">B Flat</a>
+                  </div>
+                </li>
+                <li class="nav-item d-lg-none"><a itemprop="url" class="nav-link" href="/en/jobs/"><span itemprop="name">Jobs</span></a></li>
+                <li class="nav-item d-lg-none"><a itemprop="url" class="nav-link" href="/en/support/"><span itemprop="name">Support</span></a></li>
+                                  <li class="nav-item d-lg-none"><a itemprop="url" class="nav-link" href="/en/downloads/"><i class="fas fa-download mr-1"></i> <span itemprop="name">Downloads</span></a></li>
+                  <li class="nav-item d-lg-none"><a itemprop="url" class="nav-link" role="button" href="/en/store/"><i class="fas fa-shopping-cart mr-1"></i> <span itemprop="name">Buy</span></a></li>
+                                <div class="dropdown-divider d-lg-none"></div>
+                <li class="nav-item d-lg-none"><a itemprop="url" class="nav-link" href="/en/mamp-pro/mac/" title="Show information about the Mac version"><i class="fab fa-apple mr-1 mr-lg-0"></i><span class="d-lg-none"> Show information about the Mac version</span></a></li><li class="nav-item dropdown d-lg-none">
+  <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown-language-change-603ce87842f91" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fas fa-globe-americas mr-1 mr-lg-0"></i><span class="d-lg-none"> Language</span>
+  </a>
+  <div class="dropdown-menu _dropdown-menu-right rounded-0 border-0" aria-labelledby="navbar-dropdown-language-change-603ce87842f91">
+                                            <a class="dropdown-item text-white text-capitalize" itemprop="url" href="/de/mamp-pro/windows/"><span itemprop="name"><i class="fas fa-globe-europe"></i> Deutsch</span></a>
+                                                    </li>
+              </ul>
+              <ul class="navbar-nav d-none d-lg-flex">
+                <li class="nav-item"><a itemprop="url" class="nav-link" href="/en/jobs/"><span itemprop="name">Jobs</span></a></li>
+                                  <li class="nav-item"><a itemprop="url" class="nav-link" href="/en/downloads/"><span itemprop="name">Downloads</span></a></li>
+                                <li class="nav-item"><a itemprop="url" class="nav-link" href="/en/support/"><span itemprop="name">Support</span></a></li>
+                <li class="nav-item "><a itemprop="url" class="nav-link" href="/en/mamp-pro/mac/" title="Show information about the Mac version"><i class="fab fa-apple mr-1 mr-lg-0"></i><span class="d-lg-none"> Show information about the Mac version</span></a></li><li class="nav-item dropdown ">
+  <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown-language-change-603ce87842fb8" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fas fa-globe-americas mr-1 mr-lg-0"></i><span class="d-lg-none"> Language</span>
+  </a>
+  <div class="dropdown-menu _dropdown-menu-right rounded-0 border-0" aria-labelledby="navbar-dropdown-language-change-603ce87842fb8">
+                                            <a class="dropdown-item text-white text-capitalize" itemprop="url" href="/de/mamp-pro/windows/"><span itemprop="name"><i class="fas fa-globe-europe"></i> Deutsch</span></a>
+                                                    </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div class="col-0 col-lg-1 d-none d-lg-block"></div>
+    </div>
+  </div>
+</div>
+          </header>
+    <main class="pb-5" itemscope itemprop="mainContentOfPage">
+              <div id="cover" class="position-relative mb_-5">
+    <img src="/images/header/start/header-small.jpg" class="img-fluid d-sm-none" alt="">
+    <img src="/images/header/start/header-medium.jpg" class="img-fluid d-none d-sm-flex d-md-none" alt="">
+    <img src="/images/header/start/header-large.jpg" class="img-fluid d-none d-md-flex d-lg-none" alt="">
+    <img src="/images/header/start/header-extra-large.jpg" class="img-fluid d-none d-lg-flex d-widescreen-none" alt="">
+          <img src="/images/header/start/header-widescreen.jpg" class="img-fluid d-none d-widescreen-flex" alt="">
+        <div class="position-absolute cover-text w-100">
+      <div class="text-center pl-3 pr-3 ml-3 mr-3">
+                                                                                      <img src="/images/header/start/text-mamp-pro.svg" class="img-fluid" alt="MAMP PRO">
+
+                    
+                                                                                                  
+                                                                                                
+            
+            
+                                                                            <div class="mt-4">
+                                              <div class="d-none d-md-inline">
+                <div class="btn-group ml-2 mr-2 mb-2 mb-md-0">
+                  <a class="btn btn-light" href="https://downloads.mamp.info/MAMP-PRO-WINDOWS/releases/4.2.0/MAMP_MAMP_PRO_4.2.0.exe" onclick="open_overlay_while_downloading();">
+                    <i class="fas fa-download mr-1"></i> Try Now                  </a>
+                  <button type="button" class="btn btn-light dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="sr-only">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu dropdown-menu-right">
+                    <a class="dropdown-item" href="https://downloads.mamp.info/MAMP-PRO/releases/6.3/MAMP_MAMP_PRO_6.3.pkg" onclick="open_overlay_while_downloading();">
+                      <i class="fas fa-download mr-1"></i> Download for Mac                    </a>
+                    <div class="dropdown-divider"></div>
+                    <small><a class="dropdown-item pt-0 pb-0" href="/en/downloads/">Other downloads</a></small>
+                  </div>
+                </div>
+              </div>
+                                            <!--<a class="btn btn-light d-block d-sm-inline-block ml-2 mr-2 mb-2 mb-md-0" href="/en/downloads/" role="button"><i class="fas fa-download mr-1"></i> Try Now</a>-->
+                    <a class="btn btn-light _d-block _d-sm-inline-block ml-2 mr-2 mb-2 mb-md-0" href="/macstore" role="button"><i class="fas fa-shopping-cart mr-1"></i> Buy Now</a>
+                  </div>
+                                                          
+                                
+                              
+              </div>
+    </div>
+    <div class="position-absolute cover-apps w-100">
+      <div class="container">
+        <div class="text-center d-md-block">
+                              
+                              
+                              
+                              
+                              
+                              
+        </div>
+      </div>
+    </div>
+  </div>
+    
+                                                                        
+  <div class="mb-5">                
+        <div class="bg-light pt-4 pb-4">    <div class="container">
+      <div class="pt-3">
+        
+                      <div class="text-center line-text">
+              <h3><strong>MAMP PRO for Windows</strong></h3>
+<p class="lead"><strong>The professional web development solution with Apache, Nginx, PHP &amp; MySQL</strong></p>            </div>
+                                    </div>
+    </div>
+    </div>                      
+    <div class="mt-5">        <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-first">
+                                <img
+                  srcset="/__we_thumbs__/2127_7_mamp-pro-surface.png 330w,
+                          /__we_thumbs__/2127_3_mamp-pro-surface.png 370w,
+                          /__we_thumbs__/2127_8_mamp-pro-surface.png 450w,
+                          /__we_thumbs__/2127_9_mamp-pro-surface.png 540w,
+                          /__we_thumbs__/2127_4_mamp-pro-surface.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/__we_thumbs__/2127_4_mamp-pro-surface.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="">
+                              </div>
+              <div class="col-12 col-lg-6 pl-lg-5 line-text order-lg-last position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>Unlimited number of hosts</strong></h3>
+<p>With MAMP PRO you can create as <strong>many hosts</strong> as you want. Each host can be configured individually and thus adapted exactly to the target system. For example, choose if you need an Apache or NginX web server, which PHP version is needed, or if and which caching system is used. This allows you to work on your different projects in <strong>parallel</strong> without losing sight of the big picture.</p>
+<p class="right-arrow"><a href="/en/store/?m=1581088662&">Buy MAMP PRO</a><br/><a href="/en/downloads/?m=1608292108&">Download free trial</a></p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+        </div>                  
+    <div class="mt-5">    <div class="bg-light pt-4 pb-4">    <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-last">
+                                <img
+                  srcset="/__we_thumbs__/1304_7_multi-php.png 330w,
+                          /__we_thumbs__/1304_3_multi-php.png 370w,
+                          /__we_thumbs__/1304_8_multi-php.png 450w,
+                          /__we_thumbs__/1304_9_multi-php.png 540w,
+                          /__we_thumbs__/1304_4_multi-php.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/__we_thumbs__/1304_4_multi-php.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="Different PHP Versions">
+                              </div>
+              <div class="col-12 col-lg-6 pr-lg-5 line-text order-lg-first position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>Multi PHP</strong></h3>
+<p>In <strong>CGI mode</strong>, you can run each of your virtual hosts with its own PHP version. This allows you to test your projects with different PHP versions - without having to restart the servers. You can <strong>choose</strong> from a variety of&nbsp;PHP versions from PHP 5.3.x to PHP 7.3.x.</p>
+<p>In <strong>module mode</strong>, you select a PHP version that will automatically run on all your hosts. This is useful, for example, if you want to check if your projects are running under a certain PHP version.</p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+    </div>    </div>                  
+    <div class="mt-5">        <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-first">
+                                <img
+                  srcset="/__we_thumbs__/1301_7_mamp-cloud.png 330w,
+                          /__we_thumbs__/1301_3_mamp-cloud.png 370w,
+                          /__we_thumbs__/1301_8_mamp-cloud.png 450w,
+                          /__we_thumbs__/1301_9_mamp-cloud.png 540w,
+                          /images/mamp-cloud.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/images/mamp-cloud.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="MAMP for Windows Cloud">
+                              </div>
+              <div class="col-12 col-lg-6 pl-lg-5 line-text order-lg-last position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>MAMP Cloud</strong></h3>
+<p>With the Cloud feature it is possible to copy all, or individual hosts to your <strong>dropbox</strong>. The root directory of the host and its databases are backed up. Now you can work on your projects on <strong>different computers</strong> without any problems. You can also use the cloud feature to <strong>back up</strong> individual or all hosts.&nbsp;Unlike the free MAMP, the cloud function is already included in MAMP PRO.</p>
+<p class="right-arrow"><a href="/en/mamp-cloud/?m=1601631237&">More about MAMP Cloud functions</a></p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+        </div>                  
+    <div class="mt-5">    <div class="bg-light pt-4 pb-4">    <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-last">
+                                <img
+                  srcset="/__we_thumbs__/1302_7_mobile-testing.png 330w,
+                          /__we_thumbs__/1302_3_mobile-testing.png 370w,
+                          /__we_thumbs__/1302_8_mobile-testing.png 450w,
+                          /__we_thumbs__/1302_9_mobile-testing.png 540w,
+                          /images/mobile-testing.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/images/mobile-testing.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="">
+                              </div>
+              <div class="col-12 col-lg-6 pr-lg-5 line-text order-lg-first position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>Mobile Testing</strong></h3>
+<p>Testing your projects on mobile devices on your local network has never been easier - thanks to the <strong>MAMP Viewer</strong> App for <strong>iOS</strong> and <strong>Android</strong>. It is available for free on the App Store and Google Play Store.</p>
+<p class="right-arrow"><a href="/en/store/?m=1581088662&">Buy MAMP PRO</a><br/><a href="/en/downloads/?m=1608292108&">Download free trial</a></p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+    </div>    </div>                  
+    <div class="mt-5">        <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-first">
+                                <img
+                  srcset="/__we_thumbs__/1297_7_editor.png 330w,
+                          /__we_thumbs__/1297_3_editor.png 370w,
+                          /__we_thumbs__/1297_8_editor.png 450w,
+                          /__we_thumbs__/1297_9_editor.png 540w,
+                          /images/editor.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/images/editor.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="">
+                              </div>
+              <div class="col-12 col-lg-6 pl-lg-5 line-text order-lg-last position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>Built-in text editor</strong></h3>
+<p>Whether you want to make a simple change to one of your projects, or start a completely new one: With MAMP PRO text editor you can just to do that, either <strong>locally</strong> or <strong>remotely</strong> on a server. The editor has all the modern features like auto-completion, syntax highlighting, etc.</p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+        </div>                  
+    <div class="mt-5">    <div class="bg-light pt-4 pb-4">    <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-last">
+                                <img
+                  srcset="/__we_thumbs__/1308_7_extras.png 330w,
+                          /__we_thumbs__/1308_3_extras.png 370w,
+                          /__we_thumbs__/1308_8_extras.png 450w,
+                          /__we_thumbs__/1308_9_extras.png 540w,
+                          /images/extras.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/images/extras.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="">
+                              </div>
+              <div class="col-12 col-lg-6 pr-lg-5 line-text order-lg-first position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>Install Extras</strong></h3>
+<p>Install Extras like, <strong>Joomla</strong>, <strong>Drupal</strong>, <strong>WordPress</strong>, etc. with a few clicks.<br/>An extra is a package of a web application or library that we have previously tested and configured under MAMP PRO. When you create a virtual host, all you need to do is select the desired extra and everything will be installed <strong>automatically</strong>. Extras can also be installed on existing hosts.</p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+    </div>    </div>                  
+    <div class="mt-5">        <div class="container">
+      <div class="pt-3">
+        
+                      <div class="row">
+                            <div class="col-12 col-lg-6 order-lg-first">
+                                <img
+                  srcset="/__we_thumbs__/1305_7_LAN-access.png 330w,
+                          /__we_thumbs__/1305_3_LAN-access.png 370w,
+                          /__we_thumbs__/1305_8_LAN-access.png 450w,
+                          /__we_thumbs__/1305_9_LAN-access.png 540w,
+                          /images/LAN-access.png 770w"
+                  sizes="(max-width: 320px) 330px,
+                         (max-width: 375px) 330px,
+                         (max-width: 414px) 450px,
+                         (max-width: 575px) 570px,
+                         (max-width: 768px) 770px,
+                         (max-width: 992px) 720px,
+                         570px"
+                  src="/images/LAN-access.png"
+                  class="img-fluid mx-auto d-block mb-4 mb-lg-0"
+                  alt="">
+                              </div>
+              <div class="col-12 col-lg-6 pl-lg-5 line-text order-lg-last position-relative">
+                <div class="line-text-outer">
+                  <div class="line-text-inner">
+                    <h3><strong>LAN Access</strong></h3>
+<p>You want to keep your boss or a colleague up to date? This is now very easy via xip.io: Activate the corresponding option and click on the <strong>sharing button</strong>. Your e-mail program opens and the corresponding URL is automatically entered in a new e-mail. All the recipient has to do now is click on the link and the host you would like to <strong>share</strong> will automatically appear.</p>
+<p class="right-arrow"><a href="/en/store/?m=1581088662&">Buy MAMP PRO</a><br/><a href="/en/downloads/?m=1608292108&">Download free trial</a></p>                  </div>
+                </div>
+              </div>
+            </div>
+                        </div>
+    </div>
+        </div>                  
+    <div class="mt-5">    <div class="bg-light pt-4 pb-4">    <div class="container">
+      <div class="pt-3">
+        
+                      <div class="text-left line-text">
+              <h3><strong>Dynamic DNS</strong></h3>
+<p>With MAMP PRO you can easily connect your local server to an existing <strong>dynamic DNS</strong> provider, such as no-ip.com. This makes it very easy for clients and interested parties to access the results of your work very quickly via the Internet. Once again, the possibility of setting up any number of virtual hosts is convincing in order to be able to offer alternative configurations or suggestions. We have additionally integrated the <strong>DNS-O-Matic</strong> service. Now you have a huge selection of Dyn-DNS service providers, many of which are free of charge.</p>            </div>
+                                    </div>
+    </div>
+    </div>    </div>        </div>    </main>
+      		<footer itemscope itemtype="http://schema.org/WPFooter">
+        <div class="container pt-3 pb-3 text-center">
+    <small>
+      <span class="d-block mb-2">Share this page</span>
+      <a class="btn btn-outline-light btn-sm pt-0 pr-3 pb-0 pl-3 text-muted" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mamp.info%2Fen%2Fmamp-pro%2Fwindows%2F" target="_blank" role="button" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+      <a class="btn btn-outline-light btn-sm pt-0 pr-3 pb-0 pl-3 text-muted" href="https://twitter.com/home?status=https%3A%2F%2Fwww.mamp.info%2Fen%2Fmamp-pro%2Fwindows%2F" target="_blank" role="button" title="Twitter"><i class="fab fa-twitter"></i></a>
+            <a class="btn btn-outline-light btn-sm pt-0 pr-3 pb-0 pl-3 text-muted" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.mamp.info%2Fen%2Fmamp-pro%2Fwindows%2F&amp;title=MAMP+PRO+-+Your+local+web+development+solution&amp;summary=&amp;source=" target="_blank" role="button" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+    </small>
+  </div>
+  <div class="bg-dark pt-4 pb-2">
+    <div class="container">
+      <div class="row no-gutters">
+        <div class="col-12 col-md-3 text-center text-md-left">
+          <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <li itemprop="url">
+              <a href="/en/mamp/"><span itemprop="name">MAMP</span></a> &amp; <a href="/en/mamp-pro/"><span itemprop="name">MAMP PRO</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="/en/downloads/"><span itemprop="name"><i class="fas fa-download mr-1"></i> Downloads</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://documentation.mamp.info" target="_blank"><span itemprop="name"><i class="fas fa-book mr-1"></i> Documentation</span></a></small></li>
+                <li itemprop="url">
+                  <small>
+                    <span itemscope itemtype="http://schema.org/Organization">
+                      <link itemprop="url" href="https://www.mamp.info">
+                      <a itemprop="sameAs" href="https://www.twitter.com/mamp_en" target="_blank"><i class="fab fa-twitter mr-1"></i> Follow us</a>
+                    </span>
+                  </small>
+                </li>
+                <li itemprop="url"><small><a href="http://www.mamp.tv" target="_blank"><i class="fas fa-film mr-1"></i> <span itemprop="name">MAMP.TV</span></a></small></li>
+                <li itemprop="url"><small><a href="https://mamp.one" target="_blank"><i class="fas fa-book-reader mr-1"></i> <span itemprop="name">MAMP.ONE</span></a></small></li>
+              </ul>
+            </li>
+            <li itemprop="url" class="mt-3">
+              <a href="/namo/en/"><span itemprop="name">NAMO</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="https://downloads.mamp.info/NAMO/releases/mac/NAMO-1.0.1-70.dmg"><span itemprop="name"><i class="fas fa-download mr-1"></i> Download</span></a></small></li>  
+                <li itemprop="url"><small><a href="/namo/en/support/"><span itemprop="name"><i class="far fa-life-ring mr-1"></i> Support</span></a></small></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-12 col-md-3 text-center text-md-left">
+          <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <li itemprop="url">
+              <a href="/timeedition/en/"><span itemprop="name">timeEdition</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="https://geo.itunes.apple.com/us/app/timeedition-time-tracking/id1238604516?mt=12&app=apps" target="_blank"><span itemprop="name"><i class="fab fa-app-store mr-1"></i> Download on the Mac App Store</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://itunes.apple.com/us/app/timeedition-time-tracking/id969800201?mt=8" target="_blank"><span itemprop="name"><i class="fab fa-app-store-ios mr-1"></i> Download on the App Store</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://play.google.com/store/apps/details?id=de.appsolute.timeedition2&hl=en" target="_blank"><span itemprop="name"><i class="fab fa-google-play mr-1"></i> Get it on Google Play</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://downloads.mamp.info/timeEdition/releases/mac/current.php" class="download"><span itemprop="name"><i class="fas fa-download mr-1"></i> Try macOS App now</span></a></small></li>  
+                <li itemprop="url"><small><a href="/timeedition/en/#store"><span itemprop="name"><i class="fas fa-shopping-cart mr-1"></i> Buy macOS App now</span></a></small></li>  
+                <li itemprop="url"><small><a href="/timeedition/en/retrieve-serial-numbers/"><span itemprop="name"><i class="fas fa-barcode mr-1"></i> Retrieve serial numbers</span></a></small></li>
+                <li itemprop="url">
+                  <small>
+                    <span itemscope itemtype="http://schema.org/Organization">
+                      <link itemprop="url" href="https://www.mamp.info//">
+                      <a itemprop="sameAs" href="https://twitter.com/timeeditionapp" target="_blank"><i class="fab fa-twitter mr-1"></i> Follow us</a>
+                    </span>
+                  </small>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-12 col-md-3 text-center text-md-left">
+          <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <li itemprop="url">
+              <a href="/better-ears/en/"><span itemprop="name">Better Ears</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="https://geo.itunes.apple.com/us/app/better-ears-music-ear-training/id575164882?mt=12&app=apps" target="_blank"><span itemprop="name"><i class="fab fa-app-store mr-1"></i> Download on the Mac App Store</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://itunes.apple.com/us/app/better-ears-eartrainer/id284444548?mt=8" target="_blank"><span itemprop="name"><i class="fab fa-app-store-ios mr-1"></i> Download on the App Store</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://play.google.com/store/apps/details?id=de.appsolute.betterearspremium" target="_blank"><span itemprop="name"><i class="fab fa-google-play mr-1"></i> Get it on Google Play</span></a></small></li>  
+                <li itemprop="url"><small><a href="https://www.better-ears.com/downloads/current" class="download"><span itemprop="name"><i class="fas fa-download mr-1"></i> Try macOS App now</span></a></small></li>  
+                <li itemprop="url"><small><a href="/better-ears/en/#store"><span itemprop="name"><i class="fas fa-shopping-cart mr-1"></i> Buy macOS App now</span></a></small></li>  
+                <li itemprop="url"><small><a href="/better-ears/en/retrieve-serial-numbers/"><span itemprop="name"><i class="fas fa-barcode mr-1"></i> Retrieve serial numbers</span></a></small></li>
+              </ul>
+            </li>
+            <li itemprop="url" class="mt-3">
+              <a href="/b-flat/en/"><span itemprop="name">B Flat</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="https://itunes.apple.com/us/app/b-flat-sight-reading/id999375757?mt=8" target="_blank"><span itemprop="name"><i class="fab fa-app-store-ios mr-1"></i> Download on the App Store</span></a></small></li>  
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col-12 col-md-3 text-center text-md-left">
+          <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <li itemprop="url">
+              <a href="/receiver/en/"><span itemprop="name">Receiver</span></a>
+              <ul class="list-unstyled" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <li itemprop="url"><small><a href="https://itunes.apple.com/us/app/receiver-radio/id311658127?mt=8" target="_blank"><span itemprop="name"><i class="fab fa-app-store-ios mr-1"></i> Apple App Store</span></a></small></li>
+                <li itemprop="url"><small><a href="http://www.amazon.de/dp/B01DDX7MZQ" target="_blank"><span itemprop="name"><i class="fab fa-amazon mr-1"></i> Amazon</span></a></small></li>
+                <li itemprop="url"><small><a href="https://play.google.com/store/apps/details?id=de.appsolute.receiver.receiverphone" target="_blank"><span itemprop="name"><i class="fab fa-google-play mr-1"></i> Google Play</span></a></small></li>
+                <li itemprop="url">
+                  <small>
+                    <span itemscope itemtype="http://schema.org/Organization">
+                      <link itemprop="url" href="https://www.mamp.info//">
+                      <a itemprop="sameAs" href="https://twitter.com/receiverapp" target="_blank"><i class="fab fa-twitter mr-1"></i> Follow us</a>
+                    </span>
+                  </small>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <ul class="list-inline mt-3 text-center" itemscope itemtype="http://schema.org/SiteNavigationElement">
+        <li class="list-inline-item" itemprop="url"><small><a href="https://appsolute.zendesk.com/hc/en-us/requests/new" target="_blank"><span itemprop="name"><i class="far fa-life-ring mr-1"></i> Contact Support</span></a></small></li>
+        <li class="list-inline-item" itemprop="url"><small><a href="https://bugs.mamp.info" target="_blank"><span itemprop="name"><i class="fas fa-bug mr-1"></i> Bugbase</span></a></small></li>
+      </ul>
+      <ul class="list-inline text-center" itemscope itemtype="http://schema.org/SiteNavigationElement">
+        <li class="list-inline-item" itemprop="url"><small><a href="/en/legal-notice/"><span itemprop="name">Legal Notice</span></a></small></li>
+        <li class="list-inline-item" itemprop="url"><small><a href="/en/privacy-policy/"><span itemprop="name">Privacy Policy</span></a></small></li>
+        <li class="list-inline-item" itemprop="url"><small><a href="/">&#169; <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">MAMP GmbH</span></span> <span itemprop="copyrightYear">2021</span></a></small></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+       
+
+      
+        <div class="modal fade" id="overlay-while-downloading" tabindex="-1" role="dialog" aria-labelledby="overlay-while-downloading-title" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header pt-2 pb-2 d-lg-none">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+
+        <div class="modal-body mt-4 mb-4">
+          <div class="text-center">
+            <p><img src="/namo/images/namo-logo.png" alt="NAMO logo" width="120" height="120"></p>
+            <h2 id="overlay-while-downloading-title" class="mt-4 mb-4"><strong>NAMO DNS App</strong><br>The perfect MAMP companion</h2>
+            <p class="lead m-0 p-0">Access your MAMP websites under a fixed domain name in the LAN instead of just an IP address. Perfect for testing on mobile devices.</p>
+            <p class="text-center mt-5">
+              <a class="btn btn-info mr-2" style="background-color: #4ca69d;" href="/namo/en/#download" role="button"><i class="fas fa-download mr-1"></i> Try Now</a>
+              <a class="btn btn-info ml-2" style="background-color: #4ca69d;" href="/namo/en/#store" role="button"><i class="fas fa-shopping-cart mr-1"></i> Buy NAMO</a>
+            </p>
+            <p>
+              <small><a href="/namo/en/">Learn more</a></small>
+            </p>
+          </div>
+        </div>
+        
+
+      </div>
+    </div>
+  </div>
+  		          <script type="text/javascript">
+      var _paq = window._paq || [];
+            _paq.push(['setDownloadExtensions', 'pkg|dmg|exe|zip']);
+      _paq.push(['setDownloadClasses', 'download']);
+      _paq.push(['enableHeartBeatTimer']);
+      _paq.push(['disableCookies']);
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      _paq.push(['trackAllContentImpressions']);
+      (function() {
+        var u="//a.mamp.info/";
+        _paq.push(['setTrackerUrl', u+'ap']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'aj'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//a.mamp.info/ap?idsite=1&amp;rec=1" style="border:0;" alt=""></p></noscript>
+          </body>
+</html>

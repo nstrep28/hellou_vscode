@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "Adblock"
+   },
+   "adBlockSettings": {
+      "message": "Adblock – postavke"
+   },
+   "adblockIsOff": {
+      "message": "Adblock je isključen"
+   },
+   "adblockIsPaused": {
+      "message": "Adblock je pauziran na svim web-mjestima"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Adblock je pauziran na ovom web-mjestu"
+   },
+   "addSite": {
+      "message": "Dodaj web-mjesto"
+   },
+   "adsAreAllowed": {
+      "message": "Na ovom su web-mjestu oglasi dopušteni"
+   },
+   "adsBlocked": {
+      "message": "Blokirani oglasi: "
+   },
+   "allowAdsOnSite": {
+      "message": "Dopustite oglase na ovom web-mjestu"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Uvijek dopusti oglase na sljedećim web-mjestima"
+   },
+   "balancedBlocking": {
+      "message": "Uravnoteženo blokiranje"
+   },
+   "balancedBlockingName": {
+      "message": "Uravnoteženo"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Blokirajte oglase na ovom web-mjestu"
+   },
+   "blockingOptions": {
+      "message": "Mogućnosti blokiranja"
+   },
+   "btnAdd": {
+      "message": "Dodaj"
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "edit": {
+      "message": "Uređivanje"
+   },
+   "essentialBlocking": {
+      "message": "Essential blokiranje"
+   },
+   "essentialBlockingName": {
+      "message": "Essential"
+   },
+   "extShortDesc": {
+      "message": "Konačno efikasan blokator. Štedljiv za procesor i memoriju."
+   },
+   "generalSettings": {
+      "message": "Opće postavke"
+   },
+   "indexDescription": {
+      "message": "Blokirajte oglase radi bržeg i sigurnijeg pregledavanja"
+   },
+   "keep_balanced": {
+      "message": "Zadrži uravnoteženo"
+   },
+   "keep_essential": {
+      "message": "Zadrži osnovno"
+   },
+   "learnMore": {
+      "message": "Saznajte više"
+   },
+   "noAdsToBlock": {
+      "message": "Nema oglasa za blokadu na ovoj stranici"
+   },
+   "pauseAdBlock": {
+      "message": "Zaustavi Adblock"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Zaustavi Adblock na sva web-mjesta"
+   },
+   "pauseOnAllSites": {
+      "message": "Zaustavi na svim web-mjestima"
+   },
+   "pauseOnThisSite": {
+      "message": "Zaustavi za ovo web-mjesto"
+   },
+   "poweredByUblock": {
+      "message": "Pokreće \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Ukloni"
+   },
+   "save": {
+      "message": "Spremi"
+   },
+   "setStrict": {
+      "message": "Postavi strogo"
+   },
+   "setStrictDescription_avast": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo Avast Secure Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictDescription_avg": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo AVG Secure Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo CCleaner Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictTitle": {
+      "message": "Postavite Adblock na strogo"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Blokirajte ometajuće oglase koje krše\n the \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>standarde prihvatljivih oglasa\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Preporučeno\u003C/b> – blokirajte više oglasa radi bržeg, čišćeg pregledavanja."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Blokirajte gotovo sve oglase za brže i čišće sučelje za pregledavanje interneta. \u003Cb>To može uzrokovati pogrešku na nekim web-mjestima.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Drugi ometajući oglasi"
+   },
+   "settingsCardOtherAds": {
+      "message": "99 % drugih oglasa"
+   },
+   "settingsCardPopups": {
+      "message": "Skočni oglasi i natpisi"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Neki drugi oglasi na društvenim medijima"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Pokaži broj blokiranih oglasa na ikoni"
+   },
+   "site": {
+      "message": "Web-mjesto"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Web-mjesta na kojima su dopušteni oglasi prikazat će se ovdje"
+   },
+   "strictBlocking": {
+      "message": "Strogo blokiranje"
+   },
+   "strictBlockingName": {
+      "message": "Strogo"
+   },
+   "turnAdblockOn": {
+      "message": "Uključi"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Prekini pauzu"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Dopustili ste oglase na ovom web-mjestu "
+   }
+}

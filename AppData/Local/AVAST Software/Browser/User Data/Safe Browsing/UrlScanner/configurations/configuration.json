@@ -1,0 +1,54 @@
+{
+	"visitedTld" : 
+	[
+		{
+			"lastUse" : 1615892418,
+			"tld" : "com",
+			"wlDownload" : 1615892418,
+			"wlETag" : "\"5f9fbca5-fb0c8\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615875236,
+			"tld" : "org",
+			"wlDownload" : 1615875234,
+			"wlETag" : "\"5f920f30-e1b0\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615888819,
+			"tld" : "io",
+			"wlDownload" : 1615888819,
+			"wlETag" : "\"5f86f042-1677\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615875235,
+			"tld" : "ru",
+			"wlDownload" : 1615875235,
+			"wlETag" : "\"5f9edbb9-e8bd\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615875235,
+			"tld" : "net",
+			"wlDownload" : 1615875235,
+			"wlETag" : "\"5f9edbb9-15915\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615875235,
+			"tld" : "info",
+			"wlDownload" : 1615875235,
+			"wlETag" : "\"5f88723f-1ced\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1615875236,
+			"tld" : "im",
+			"wlDownload" : 1615875236,
+			"wlETag" : "\"5f86f042-311\"",
+			"wlStatus" : 0
+		}
+	]
+}

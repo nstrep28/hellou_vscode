@@ -1,0 +1,37 @@
+{
+   "author": "Avast Software",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon16.png",
+      "default_title": "Hackcheck"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/main.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "Automatically checks if you have been the victim of a data breach.",
+   "homepage_url": "https://extension.avastbrowser.com/hack-check/learn-more",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "256": "img/icon256.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuWz5FyPveVmaW0eT/TDEAeSr27A8I0EyAUQpyc+bjv3Z/tx0hkpJlxhGPQYCWpvbvjgF/JWepovUBz30hGDNv8InLS/9CMTDxg0rOA5WoC7V4T7mLlcdoqaGe8AuMQ3SIXcUQ7dSnoLxciPT0I+JW7jXof+pKCsjPCUgmSD25Pn7Gv+FjjFQKxjHWAo9+BXDkGHLkxNhuKQBO5Ta2YJdDYQo/g22+tj0mrhHdc+McjOdH4I4FK/xvWYY/zi8P33XH2M9Z2iiAEwyH6HVJ2lQ+OTGKVrw/NgUNLcduhilAKlJOL7SahSlEEB4YopbpfZX2jpTuz01D7IS1HKcGfDoUQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "75.1",
+   "name": "Avast Hack Check",
+   "permissions": [ "activeTab", "tabs", "\u003Call_urls>", "declarativeContent", "management", "storage", "contextMenus" ],
+   "short_name": "Hack Check",
+   "version": "1.2.341",
+   "web_accessible_resources": [ "html/*" ]
+}

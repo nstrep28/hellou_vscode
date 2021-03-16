@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "Reklameblokering"
+   },
+   "adBlockSettings": {
+      "message": "Reklameblokering – indstillinger"
+   },
+   "adblockIsOff": {
+      "message": "Reklameblokering er deaktiveret"
+   },
+   "adblockIsPaused": {
+      "message": "Reklameblokering er på pause på alle websteder"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Reklameblokering er på pause på dette websted"
+   },
+   "addSite": {
+      "message": "Tilføj websted"
+   },
+   "adsAreAllowed": {
+      "message": "Reklamer tillades på dette websted"
+   },
+   "adsBlocked": {
+      "message": "Reklamer blokeret: "
+   },
+   "allowAdsOnSite": {
+      "message": "Tillad reklamer på dette websted"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Tillad altid reklamer på følgende websteder"
+   },
+   "balancedBlocking": {
+      "message": "Balanceret blokering"
+   },
+   "balancedBlockingName": {
+      "message": "Balanceret"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Bloker reklamer på dette websted"
+   },
+   "blockingOptions": {
+      "message": "Blokeringsindstillinger"
+   },
+   "btnAdd": {
+      "message": "Tilføj"
+   },
+   "cancel": {
+      "message": "Annuller"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "essentialBlocking": {
+      "message": "Essentiel blokering"
+   },
+   "essentialBlockingName": {
+      "message": "Essentiel"
+   },
+   "extShortDesc": {
+      "message": "Endelig en effektiv blokering. Bruger hverken meget CPU eller hukommelse."
+   },
+   "generalSettings": {
+      "message": "Generelle indstillinger"
+   },
+   "indexDescription": {
+      "message": "Bloker reklamer for at browse hurtigere og sikrere"
+   },
+   "keep_balanced": {
+      "message": "Behold balanceret"
+   },
+   "keep_essential": {
+      "message": "Behold essentiel"
+   },
+   "learnMore": {
+      "message": "Få mere at vide"
+   },
+   "noAdsToBlock": {
+      "message": "Ingen reklamer at blokere på denne side"
+   },
+   "pauseAdBlock": {
+      "message": "Pausér Reklameblokering"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Pausér Reklameblokering på alle websteder"
+   },
+   "pauseOnAllSites": {
+      "message": "Pausér på alle websteder"
+   },
+   "pauseOnThisSite": {
+      "message": "Pausér på dette websted"
+   },
+   "poweredByUblock": {
+      "message": "Powered by \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Fjern"
+   },
+   "save": {
+      "message": "Gem"
+   },
+   "setStrict": {
+      "message": "Indtil streng"
+   },
+   "setStrictDescription_avast": {
+      "message": "Nogle meget få ikke-indtrængende reklamer hjælper os med at finansiere Avast Secure Browser. De forstyrrer ikke din browsing og er med til at gøre browseren gratis. Støt os ved at tillade disse reklamer."
+   },
+   "setStrictDescription_avg": {
+      "message": "Nogle meget få ikke-indtrængende reklamer hjælper os med at finansiere AVG Secure Browser. De forstyrrer ikke din browsing og er med til at gøre browseren gratis. Støt os ved at tillade disse reklamer."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Nogle meget få ikke-indtrængende reklamer hjælper os med at finansiere CCleaner Browser. De forstyrrer ikke din browsing og er med til at gøre browseren gratis. Støt os ved at tillade disse reklamer."
+   },
+   "setStrictTitle": {
+      "message": "Indstil Reklameblokering til streng"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Bloker forstyrrende reklamer, der overtræder\n \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Standarder for acceptable reklamer\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Anbefalet\u003C/b> – bloker de fleste reklamer for at få en hurtigere og renere browsing."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Bloker næsten alle reklamer for at få en hurtigere og renere browsing. \u003Cb>Dette kan ødelægge nogle websteder.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Andre forstyrrende reklamer"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% af andre reklamer"
+   },
+   "settingsCardPopups": {
+      "message": "Pop-up-reklamer og bannere"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Nogle reklamer på sociale medier"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Vis antallet af blokerede reklamer på ikonet"
+   },
+   "site": {
+      "message": "Websted"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Websteder, du har tilladt reklamer på, vises her"
+   },
+   "strictBlocking": {
+      "message": "Streng blokering"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "turnAdblockOn": {
+      "message": "Slå til"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Fjern pause"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Du har tilladt reklamer på dette websted "
+   }
+}

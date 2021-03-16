@@ -1,0 +1,61 @@
+{
+   "author": "Safer Technologies LLC & uBlock Origin contributors",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/browsericons/icon19.png",
+         "38": "img/browsericons/icon38.png"
+      },
+      "default_popup": "extra/popup-extra.html",
+      "default_title": "Avast Anti-Tracking"
+   },
+   "commands": {
+      "launch-element-picker": {
+         "description": "__MSG_popupTipPicker__"
+      },
+      "launch-element-zapper": {
+         "description": "__MSG_popupTipZapper__"
+      },
+      "launch-logger": {
+         "description": "__MSG_popupTipLog__"
+      },
+      "relax-blocking-mode": {
+         "description": "__MSG_relaxBlockingMode__"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/vapi.js", "/js/vapi-client.js", "/js/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "/js/scriptlets/subscriber.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "dataKeys": [ "blockedRequestCount", "allowedRequestCount" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "48": "img/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxH2mjXr+1wbGU7GumieXBZOlhkMdY5J6XCl29KJpzzqRfyJSrAaWtVCewjLWQbds/XB3dw+XUqL/lGc2D2dX4qKNxy+ovZTzlAME+oCHiwB7iz+g7wJqe9g5ypQwI5Uf+wVH7CI9Dm0d1Qjvh0hFFtycOjTnTtvwxX69PW9S7IXdJ6FnaA0b6rqfBGcOFqAUoSAZSIc9HVuHpIcGFeiU/o231W4zy3T79+w1LFkNINUIZKVm+JAc2lYI18af2/QKizuKyhKoLIlpYLb48JjMkz6ke6I+TXV3ensuucpvO1XracD0EgcPXOnUJu4Yz9XRsTAagGFGKPZdWt6np16x2wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "51.0",
+   "name": "Avast Anti-Tracking",
+   "options_page": "options/index.html",
+   "permissions": [ "contextMenus", "privacy", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "short_name": "Avast Anti-Tracking",
+   "storage": {
+      "managed_schema": "managed_storage.json"
+   },
+   "version": "1.23.0.675",
+   "web_accessible_resources": [ "/web_accessible_resources/*" ]
+}

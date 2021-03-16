@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "Advertenties blokkeren"
+   },
+   "adBlockSettings": {
+      "message": "Advertenties blokkeren – instellingen"
+   },
+   "adblockIsOff": {
+      "message": "Advertenties blokkeren is uitgeschakeld"
+   },
+   "adblockIsPaused": {
+      "message": "Advertenties blokkeren is onderbroken op alle websites"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Advertenties blokkeren is onderbroken op deze website"
+   },
+   "addSite": {
+      "message": "Website toevoegen"
+   },
+   "adsAreAllowed": {
+      "message": "Advertenties zijn toegestaan op deze website"
+   },
+   "adsBlocked": {
+      "message": "Geblokkeerde advertenties: "
+   },
+   "allowAdsOnSite": {
+      "message": "Advertenties op deze website toestaan"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Altijd advertenties toestaan op de volgende websites"
+   },
+   "balancedBlocking": {
+      "message": "Evenwichtig blokkeren"
+   },
+   "balancedBlockingName": {
+      "message": "Evenwichtig"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Advertenties op deze website blokkeren"
+   },
+   "blockingOptions": {
+      "message": "Blokkeeropties"
+   },
+   "btnAdd": {
+      "message": "Toevoegen"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "essentialBlocking": {
+      "message": "Essentieel blokkeren"
+   },
+   "essentialBlockingName": {
+      "message": "Essentieel"
+   },
+   "extShortDesc": {
+      "message": "Eindelijk een efficiënt blokkeerprogramma dat vriendelijk is voor processor en geheugen."
+   },
+   "generalSettings": {
+      "message": "Algemene instellingen"
+   },
+   "indexDescription": {
+      "message": "Blokkeer advertenties om sneller en veiliger te browsen"
+   },
+   "keep_balanced": {
+      "message": "Evenwichtig houden"
+   },
+   "keep_essential": {
+      "message": "Essentieel houden"
+   },
+   "learnMore": {
+      "message": "Meer informatie"
+   },
+   "noAdsToBlock": {
+      "message": "Geen advertenties te blokkeren op deze pagina"
+   },
+   "pauseAdBlock": {
+      "message": "Advertenties blokkeren onderbreken"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Advertenties blokkeren onderbreken op alle websites"
+   },
+   "pauseOnAllSites": {
+      "message": "Onderbreken op alle websites"
+   },
+   "pauseOnThisSite": {
+      "message": "Onderbreken op deze website"
+   },
+   "poweredByUblock": {
+      "message": "Mogelijk gemaakt door \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "setStrict": {
+      "message": "Streng instellen"
+   },
+   "setStrictDescription_avast": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om Avast Secure Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictDescription_avg": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om AVG Secure Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om CCleaner Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictTitle": {
+      "message": "Advertenties blokkeren op streng instellen"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Blokkeer advertenties die de \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Acceptable Ads Standards\u003C/a>\u003C/u> schenden."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Aanbevolen\u003C/b>: blokkeer de meeste advertenties voor een snellere, overzichtelijkere browse-ervaring."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Blokkeer bijna alle advertenties voor een snellere, overzichtelijkere browse-ervaring. \u003Cb>Sommige websites kunnen hierdoor onbruikbaar worden.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Andere storende advertenties"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% van de overige advertenties"
+   },
+   "settingsCardPopups": {
+      "message": "Pop-upadvertenties en banners"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Bepaalde advertenties op sociale media"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Het aantal geblokkeerde advertenties op het pictogram tonen"
+   },
+   "site": {
+      "message": "Website"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Hier worden de websites getoond waarvoor u advertenties hebt toegestaan"
+   },
+   "strictBlocking": {
+      "message": "Streng blokkeren"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "turnAdblockOn": {
+      "message": "Inschakelen"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Hervatten"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "U hebt advertenties toegestaan op deze website "
+   }
+}

@@ -1,0 +1,53 @@
+{
+   "author": "Safer Technologies LLC & uBlock Origin contributors",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/browsericons/icon_16.png",
+         "32": "img/browsericons/icon_32.png"
+      },
+      "default_popup": "extra/app.html",
+      "default_title": "Avast Adblock"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/vapi.js", "/js/vapi-client.js", "/js/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "/js/scriptlets/subscriber.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "default-src 'self'; font-src *; script-src 'self' 'unsafe-eval'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:;",
+   "dataKeys": [ "AdBlockData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "differential_fingerprint": "1.0d324c1e1c1eb1f6bfc9be69794da3015cb15b218d5a9508a6ba4d2c26e48957",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "32": "img/icon_32.png",
+      "48": "img/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApgVdRIGdB1Cw9XW9HjD7+ad4CT/RrduALoYKRu0P2PykMhbe89WVA1ldUl4tOHayF+VjD5NJkwLxEODRaerFkxWpXvBcZ4Kmr1TbOoVgdApDLvUC+ShMWdoITxE0p7B5B3t8rAHZise/VvJ58Cdap84gtpBZgwF4Y6cYrlj6zHtuE7DAoIeLGTgxqsuW0m1LvEdIiLdFaAqIoxGFvut39v+AE1SIYsNSBQJCo5VYKNsC35QmfPzknPIr+O0p2NweT3fku56TOmQiafR0wpi8m1X5zudASxgka+kUS1ZF12Kgksmq6opxwvrIA8g7oK/KiDQ4xbNZOXDj03J6x0Pb4wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "51.0",
+   "name": "Avast Adblock",
+   "options_page": "extra/options.html",
+   "permissions": [ "contextMenus", "privacy", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "short_name": "Avast Adblock",
+   "storage": {
+      "managed_schema": "managed_storage.json"
+   },
+   "version": "2.1.194",
+   "web_accessible_resources": [ "/web_accessible_resources/*" ]
+}

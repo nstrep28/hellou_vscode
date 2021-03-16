@@ -1,0 +1,74 @@
+{
+   "checksum": "fd26fffbc92479bac8e32758cebfe98a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13257784822377915",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13257784822377925",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13257784824473752",
+            "date_modified": "0",
+            "guid": "14ad81ea-2646-4d2c-bbf3-2f92cc255b2d",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13257784824473797",
+            "date_modified": "0",
+            "guid": "7a336408-ff07-4155-bd99-85b0f6746c93",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13257784824473815",
+            "date_modified": "0",
+            "guid": "daedf2ad-37f9-4220-ba42-4a60d41f7b7c",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13257784824473821",
+            "date_modified": "13257784824473821",
+            "guid": "76419418-9dec-4aeb-871e-e1213aec61b8",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13257784822377939",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Спонсорский контент",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13257784822377928",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

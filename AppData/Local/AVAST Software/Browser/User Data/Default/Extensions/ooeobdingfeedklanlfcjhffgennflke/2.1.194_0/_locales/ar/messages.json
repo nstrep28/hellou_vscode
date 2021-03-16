@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "مانع الإعلانات"
+   },
+   "adBlockSettings": {
+      "message": "مانع الإعلانات – الإعدادات"
+   },
+   "adblockIsOff": {
+      "message": "تم إيقاف تشغيل مانع الإعلانات"
+   },
+   "adblockIsPaused": {
+      "message": "تم إيقاف مانع الإعلانات مؤقتًا على جميع المواقع"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "تم إيقاف مانع الإعلانات مؤقتًا على هذا الموقع"
+   },
+   "addSite": {
+      "message": "إضافة موقع"
+   },
+   "adsAreAllowed": {
+      "message": "مسموح بالإعلانات على هذا الموقع"
+   },
+   "adsBlocked": {
+      "message": "الإعلانات المحظورة: "
+   },
+   "allowAdsOnSite": {
+      "message": "السماح بالإعلانات على هذا الموقع"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "السماح بالإعلانات على المواقع التالية دومًا"
+   },
+   "balancedBlocking": {
+      "message": "الحظر المُعتدل"
+   },
+   "balancedBlockingName": {
+      "message": "المستوى المُعتدل"
+   },
+   "blockAdsOnThisSite": {
+      "message": "حظر الإعلانات على هذا الموقع"
+   },
+   "blockingOptions": {
+      "message": "خيارات الحظر"
+   },
+   "btnAdd": {
+      "message": "إضافة"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "edit": {
+      "message": "تحرير"
+   },
+   "essentialBlocking": {
+      "message": "الحظر الأساسي"
+   },
+   "essentialBlockingName": {
+      "message": "الوضع الأساسي"
+   },
+   "extShortDesc": {
+      "message": "وأخيرًا، أداة حظر فعالة. لا تحتاج إلى مساحة كبيرة ولا تُحمّل على وحدة المعالجة المركزية."
+   },
+   "generalSettings": {
+      "message": "الإعدادات العامة"
+   },
+   "indexDescription": {
+      "message": "حظر الإعلانات لتصفّح أسرع وأكثر أمانًا"
+   },
+   "keep_balanced": {
+      "message": "حفظ الوضع المُعتدل"
+   },
+   "keep_essential": {
+      "message": "حفظ الوضع الأساسي"
+   },
+   "learnMore": {
+      "message": "تعرّف على المزيد"
+   },
+   "noAdsToBlock": {
+      "message": "لا توجد إعلانات لحظرها على هذه الصفحة"
+   },
+   "pauseAdBlock": {
+      "message": "أوقف مانع الإعلانات مؤقتًا"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "إيقاف مانع الإعلانات مؤقتًا على جميع المواقع"
+   },
+   "pauseOnAllSites": {
+      "message": "الإيقاف المؤقت على جميع المواقع"
+   },
+   "pauseOnThisSite": {
+      "message": "الإيقاف المؤقت على هذا الموقع"
+   },
+   "poweredByUblock": {
+      "message": "مُشغّل بواسطة \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "حذف"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "setStrict": {
+      "message": "تعيين وضع مُقيد"
+   },
+   "setStrictDescription_avast": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل Avast Secure Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا من خلال السماح بهذه الإعلانات."
+   },
+   "setStrictDescription_avg": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل AVG Secure Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا من خلال السماح بهذه الإعلانات."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل CCleaner Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا من خلال السماح بهذه الإعلانات."
+   },
+   "setStrictTitle": {
+      "message": "تعيين مانع الإعلانات إلى الوضع المُقيد"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "قم بحظر الإعلانات المزعجة التي تنتهك \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>معايير الإعلانات المقبولة\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>مُوصى به\u003C/b> – قم بحظر معظم الإعلانات لتتمتّع بتجربة تصفّح أسرع وأوضح."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "قم بحظر جميع الإعلانات تقريبًا لتتمتّع بتجربة تصفّح أسرع وأوضح. \u003Cb>قد يتسبب ذلك بتعطيل بعض المواقع.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "الإعلانات المزعجة الأخرى"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% من الإعلانات الأخرى"
+   },
+   "settingsCardPopups": {
+      "message": "الإعلانات والشعارات المُنبثقة"
+   },
+   "settingsCardSocialMedia": {
+      "message": "بعض إعلانات وسائل التواصل الاجتماعي"
+   },
+   "settingsShowNumberBadge": {
+      "message": "عرض عدد الإعلانات المحظورة على الأيقونة"
+   },
+   "site": {
+      "message": "الموقع"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "المواقع التي سمحت بظهور الإعلانات عليها ستظهر هنا"
+   },
+   "strictBlocking": {
+      "message": "الحظر المُقيد"
+   },
+   "strictBlockingName": {
+      "message": "مُقيد"
+   },
+   "turnAdblockOn": {
+      "message": "تشغيل"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "إلغاء الإيقاف"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "قد سمحت بظهور الإعلانات على هذا الموقع "
+   }
+}
